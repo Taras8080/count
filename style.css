@@ -31,3 +31,7 @@ body {
     position: relative;
     text-align: center;
 }
+
+#startbtn {
+    border-radius: 20%;
+}
